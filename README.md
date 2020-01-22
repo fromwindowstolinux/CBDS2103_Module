@@ -1,3 +1,3 @@
-# CBDS2103_Module
-OUM CBDS2103 Data Structure
-[Imgur](https://i.imgur.com/zqMIScu.png)
+# OUM_Module-CBDS2103_Data_Structure
+
+![Imgur](https://i.imgur.com/zqMIScu.png)
