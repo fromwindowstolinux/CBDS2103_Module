@@ -16,4 +16,9 @@ int main(void)
             scanf("%d", &square[i][j]);
         }
     }
+    printf("%d\t%d\t%d\t%d\n%d\t%d\t%d\t%d\n%d\t%d\t%d\t%d\n%d\t%d\t%d\t%d\n", 
+    square[0][0], square[0][1], square[0][2], square[0][3],
+    square[1][0], square[1][1], square[1][2], square[1][3],       
+    square[2][0], square[2][1], square[2][2], square[2][3],
+    square[3][0], square[3][1], square[3][2], square[3][3]);
 }
