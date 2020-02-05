@@ -5,19 +5,19 @@
 
     (a) An array for 30 bank balances.
 
-    >`float balance[30];`
+    *`float balance[30];`*
 
 
     (b) An array for customer addresses.
     
-    >`char address[100];`
+    *`char address[100];`*
 
 
 2.  Identify the statement that declares an array that is of data type float, is called marks and is of size 20.
 
     A. `float marks(20);`
     
-    >B. `float marks[20];`
+    *B. `float marks[20];`*
     
     C. `float *marks[20];`
 
@@ -28,4 +28,4 @@
 
     B. An array can contain different data types.
 
-    >C. An array must include size specification.
+    *C. An array must include size specification.*
